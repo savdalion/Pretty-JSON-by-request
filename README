@@ -1,0 +1,4 @@
+Convert JSON output to readable status in browser.
+Useful for system, which talk to JSON-language. For like, CouchDB.
+I use https://github.com/jamespadolsey/prettyPrint.js for convert output.
+
